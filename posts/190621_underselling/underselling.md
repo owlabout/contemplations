@@ -4,6 +4,8 @@ author: Rebecca
 lang: en
 thumbnail: ./background-image.svg
 background: ./background-image.svg
+colorLeft: rgba(38, 31, 136, 1)
+colorRight: rgba(123, 116, 224, 1)
 title: The art of underselling yourself. And why it doesn't work
 ---
 
@@ -64,6 +66,3 @@ This for some reason does not change the fact though, that I am constantly waiti
 It's just also something I haven't been able to change so far.
 
 So unfortunatly, even though I have told everyone that I am incompetent, I would never want to do anything to confirm my story. 
-
-
--- 21.06.19

@@ -26,6 +26,7 @@
 
 <div class="layout {classes}">
   <!-- <Nav /> -->
+  <div class="top-bar"></div>
 
   <main class={classes}>
     <slot />

@@ -4,6 +4,8 @@ author: Rebecca
 lang: en
 thumbnail: ./networking.svg
 background: ./networking.svg
+colorLeft: rgba(238,242,87,1)
+colorRight: rgba(242,242,242,0)
 title: Uncensored Surprise
 ---
 

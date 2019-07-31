@@ -19,7 +19,6 @@
   export let post;
 
   $: sticky = post.html.indexOf("sticky__container") > 0;
-  $: console.log(post.metadata)
 
   onMount(() => {
     lang.set(post.metadata.lang);
@@ -37,10 +36,9 @@
   {/if}
 </svelte:head>
 
-<div class="background" style="--background-image: url({post.metadata.background})">
+<div class="background" style="--background-image: url({post.metadata.background}); --background-color-left: {post.metadata.colorLeft}; --background-color-right: {post.metadata.colorRight}">
   <!-- <img {src} {alt} /> -->
 </div>
-<div class="top-bar"></div>
 <nav>
   <a href="/">Back</a>
 </nav>

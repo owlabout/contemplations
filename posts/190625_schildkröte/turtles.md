@@ -4,6 +4,8 @@ author: Rebecca
 lang: de
 thumbnail: ./turtle.svg
 background: ./turtle.svg
+colorLeft: rgba(121, 61, 61, 1)
+colorRight: rgba(242,242,242,0)
 title: Schildkröte müsste man sein
 ---
 

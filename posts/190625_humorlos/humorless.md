@@ -2,6 +2,8 @@
 date: 2019-07-25
 author: Rebecca
 lang: de
+colorLeft: rgba(38, 31, 136, 1)
+colorRight: rgba(123, 116, 224, 1)
 title: Wenn Witze an Humor verlieren
 ---
 
