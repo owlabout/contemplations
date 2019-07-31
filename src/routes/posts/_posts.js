@@ -17,7 +17,8 @@ const md = require("markdown-it")({
     }
 
     return ""; // use external default escaping
-  }
+  },
+  html: true
 });
 md.use(mdSticky);
 md.use(mdContainer);

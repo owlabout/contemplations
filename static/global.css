@@ -94,7 +94,7 @@ h1 {
   color: #5C5990; 
   font-size: 24pt;
   font-weight: 300;
-  margin-top: 35px;
+  margin-top: 25px;
   margin-bottom: 35px;
 }
 
@@ -103,12 +103,24 @@ h2 {
   color: #5C5990; 
   border-bottom: solid 1px #5C5990;
   font-weight: 300;
+  margin-top: 40px;
+  margin-bottom: 25px;
 }
 
 h3 {
   font-size: 12pt;
   color: #5C5990; 
   font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
+
+ul {
+  list-style-image: url('/images/bulletpoint.svg');
+}
+
+li {
+  margin-bottom: 1rem;
 }
 
 .top-bar {
@@ -155,13 +167,14 @@ nav a:before {
 
 .post-container {
   width: 760px;
-  padding: 40px;
+  padding: 60px;
   background-color: white;
   top: 500px;
   box-sizing: border-box;
   position: relative;
   left: calc(100vw - 790px);
-  margin-bottom: 40px;
+  margin-bottom: 80px;
+  z-index: 2;
 }
 
 blockquote {
@@ -173,6 +186,10 @@ blockquote {
   margin-right: 0;
   padding-right: 40px;
   position:relative;
+}
+
+blockquote:nth-of-type(2n) {
+  padding-left: 70px;
 }
 
 blockquote p {
@@ -189,6 +206,10 @@ blockquote:after {
   height: 36px;
   background: url(/images/quotes.svg);
   background-size: contain;
+}
+
+blockquote:nth-of-type(2n):after {
+  left: 20px;
 }
 
 @media(min-width: 1580px) {

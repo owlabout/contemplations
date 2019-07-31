@@ -9,7 +9,7 @@ colorRight: rgba(123, 116, 224, 1)
 title: The art of underselling yourself. And why it doesn't work
 ---
 
-# The art of underselling yourself. And why it doesn't work 
+# The art of underselling yourself. <br/> And why it doesn't work 
 
 I would boldy claim, that I work in an environment that does not descriminate against women. Yet, I am currently the only female software-developer working there. That in itself already sucks. I don't see this as a fault of the company. Women in tech are unfourtunately still a rare species. Still, being the only female software-developer is painfully hard to ignore.
 

@@ -15,6 +15,7 @@
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
+    padding-right: 10px;
   }
 
   footer img {

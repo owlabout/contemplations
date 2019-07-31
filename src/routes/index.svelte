@@ -14,6 +14,7 @@
   import { onMount } from "svelte";
   import { lang } from "./_layout.svelte";
   import Excerpt from "../components/Excerpt.svelte";
+  import Footer from "../components/Footer.svelte";
 
   export let posts;
 
@@ -72,6 +73,8 @@
     flex-wrap: wrap;
     justify-content: center;
     width: calc(100vw - 520px);
+    padding-bottom: 80px;
+    min-height: calc(100vh - 50px);
   }
 
   @media(max-width: 860px) {
@@ -119,6 +122,7 @@
     {#each posts as post}
       <Excerpt {post} />
     {/each}
+    <Footer/>
   </div>
 </div>
 

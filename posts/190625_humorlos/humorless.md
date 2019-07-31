@@ -2,8 +2,10 @@
 date: 2019-07-25
 author: Rebecca
 lang: de
-colorLeft: rgba(38, 31, 136, 1)
-colorRight: rgba(123, 116, 224, 1)
+thumbnail: ./office-humor.svg
+background: ./office-humor.svg
+colorLeft: rgba(121, 61, 61, 1)
+colorRight: rgba(242,242,242,0)
 title: Wenn Witze an Humor verlieren
 ---
 
@@ -29,7 +31,7 @@ Stattdessen bewirkt dieser Zwischenschub bei mir, dass ich aus meinem Gedankenga
 
 Ich hielt die Arbeitsphilosophie immer für sehr entspannt. Das erste mal, dass mein Kollege neben mir Urlaub beantragte seit dem ich in der Firma war kamen von mehreren Seiten vorher der Spruch "Was? Du hast Urlaub? Wer hat dir denn das genehmigt?". Dann lachen alle und vielleicht wünscht ihm jemand noch viel Spaß. Einmal fand ich das witzig. Ein zweites Mal vielleicht auch noch. Aber wenn es unerlässlich jedes Mal kommt, wenn einer mal einen Tag nicht arbeitet, dann frage ich mich schon, ob hinter dem Witz nicht vielleicht doch mehr als nur ein Fünkchen Wahrheit steckt. Was will man damit bezwecken, dass die Mitarbeiter ein schelchtes Gewissen haben, wenn sie mal in Urlaub fahren? Das halte ich für alles andere als witzig.
 
-> Schon wieder frei ... Student muss man sein.
+> Schon wieder frei ... Student müsste man sein.
 
 Selbst als Werkstudent merke ich inzwischen, dass obwohl ich ganz offiziell nicht jeden Tag arbeite, ich das Gefühl habe ich müsste mich dafür rechtfertigen, nicht mehr zu arbeiten. "Student muss man sein", heißt es jedes Mal wenn ich sage ich bin morgen nicht da. Und was mache ich? Ich rechtfertige mich mit "ich habe Vorlesungen", oder "ich muss meine Seminararbeit schreiben" oder "ich muss lernen". Und jedes Mal frage ich mich dann später, warum um alles in der Welt ich mich dafür rechtfertigen sollte, nicht zur Arbeit zu gehen, wenn ich doch eh schon Überstunden habe. 
 

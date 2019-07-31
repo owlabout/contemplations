@@ -14,6 +14,7 @@
 <script>
   import { onMount } from "svelte";
   import Hero from "../../../../components/Hero.svelte";
+  import Footer from "../../../../components/Footer.svelte";
   import { lang } from "../../../_layout.svelte";
 
   export let post;
@@ -26,7 +27,12 @@
 </script>
 
 <style>
-  
+  .footer-container {
+    position: fixed;
+    bottom: 0;
+    z-index: 0;
+    width: 100%;
+  }
 </style>
 
 <svelte:head>
@@ -36,12 +42,14 @@
   {/if}
 </svelte:head>
 
-<div class="background" style="--background-image: url({post.metadata.background}); --background-color-left: {post.metadata.colorLeft}; --background-color-right: {post.metadata.colorRight}">
-  <!-- <img {src} {alt} /> -->
-</div>
+<div class="background" style="--background-image: url({post.metadata.background}); --background-color-left: {post.metadata.colorLeft}; --background-color-right: {post.metadata.colorRight}"></div>
 <nav>
   <a href="/">Back</a>
 </nav>
 <div class="post-container" class:has-sticky={sticky}>
   {@html post.html}
 </div>
+<div class="footer-container">
+  <Footer/>
+</div>
+
