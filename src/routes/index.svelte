@@ -115,7 +115,7 @@
     <img src="/images/about-background.svg" alt="girl-thinking">
     <div class="description">
       <h1>Casual Contemplations</h1>
-      <p>lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+      <p>Stories of things that go on in my mind. More or less true. More or less interesting. Random ideas. Simple thoughts. Casual contemplations.</p>
     </div>
   </div>
   <div class="excerpts-container">
