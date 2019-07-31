@@ -164,6 +164,33 @@ nav a:before {
   margin-bottom: 40px;
 }
 
+blockquote {
+  border-top: solid 1px var(--color-primary);
+  margin-left: 0;
+  padding-left: 40px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-right: 0;
+  padding-right: 40px;
+  position:relative;
+}
+
+blockquote p {
+  color: var(--color-primary);
+  font-style: italic;
+}
+
+blockquote:after {
+  position: absolute;
+  content: "";
+  right: 20px;
+  top: -13px;
+  width: 36px;
+  height: 36px;
+  background: url(/images/quotes.svg);
+  background-size: contain;
+}
+
 @media(min-width: 1580px) {
   .post-container {
       left: 50vw;
