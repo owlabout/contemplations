@@ -7,12 +7,12 @@ set -e
 cd __sapper__/export
 
 # if you are deploying to a custom domain
-echo 'blog.owlabout.de' > CNAME
+echo 'contemplations.owlabout.de' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:owlabout/blog.git master:gh-pages
+git push -f git@github.com:owlabout/contemplations.git master:gh-pages
 
 cd -

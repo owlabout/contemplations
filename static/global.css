@@ -91,7 +91,7 @@ a {
 }
 
 h1 {
-  color: #5C5990; 
+  color: var(--color-primary); 
   font-size: 24pt;
   font-weight: 300;
   margin-top: 25px;
@@ -100,7 +100,7 @@ h1 {
 
 h2 {
   font-size: 18pt;
-  color: #5C5990; 
+  color: var(--color-primary); 
   border-bottom: solid 1px #5C5990;
   font-weight: 300;
   margin-top: 40px;
@@ -109,7 +109,7 @@ h2 {
 
 h3 {
   font-size: 12pt;
-  color: #5C5990; 
+  color: var(--color-primary); 
   font-weight: 500;
   margin-top: 30px;
   margin-bottom: -10px;
