@@ -93,22 +93,32 @@
     .description {
       position: relative;
       width: calc(100vw - 30px);
-      margin-left: -10px;
+      max-width: 500px;
+      margin-left: 0;
+      left: 50%;
+      transform: translateX(-50%);
       margin-top: 30px;
     }
 
     .excerpts-container {
       position: relative;
-      width: 100vw
+      width: 100vw;
+    }
+  }
+
+  @media (orientation:landscape) and (max-width: 860px){ 
+    .description {
+      width: calc(50vw);
+      left: 70%;
     }
   }
 </style>
 
 <svelte:head>
-  <title>OwlAbout Blog</title>
+  <title>OwlAbout Casual Contempations</title>
   <meta
     name="Description"
-    content="Blog über Random Gedanken" />
+    content="Life Blog. Stories of things that go on in my mind. More or less true. More or less interesting. Random ideas. Simple thoughts. Casual contemplations." />
 </svelte:head>
 <div class="container">
   <div class="about">

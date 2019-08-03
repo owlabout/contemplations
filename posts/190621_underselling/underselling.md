@@ -29,7 +29,7 @@ Or not?
 Here are a few reasons why this doesn't work: 
 
 ## 1. Nobody cares
-The whole idea kind of hinges on the assumption, that your colleagues are at empathetic and care in the slightest what your feelings and experiences are. They probably don't. It has been my experience, at least in software-development, that the main focus is always on the product, or the process, or the productivity - not the person. 
+The whole idea kind of hinges on the assumption, that your colleagues are at all empathetic and care in the slightest what your feelings and experiences are. They probably don't. It has been my experience, at least in software-development, that the main focus is always on the product, or the process, or the productivity - not the person. 
 
 Don't get me wrong. My colleagues are in no way anti-social assholes. They are just grossly unaware, of what my thoughts and intentions are, to no fault of their own. Let me explain with two scenarios:  
 
