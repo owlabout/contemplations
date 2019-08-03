@@ -61,6 +61,20 @@
     height: 1.2rem;
     width: 1.2rem;
   }
+
+  @media(max-width: 860px) {
+    a {
+      padding: 5px;
+    }
+
+    footer {
+      height: 65px;
+    }
+
+    footer img {
+      height: 35px;
+    }
+  }
 </style>
 
 <footer>

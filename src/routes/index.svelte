@@ -81,8 +81,7 @@
     .about {
       position: relative;
       width: 100vw;
-      margin-top: -70px;
-      height: auto;
+      height: 100vh;
       padding: 20px;
     }
 
@@ -93,8 +92,9 @@
 
     .description {
       position: relative;
-      left: 50%;
-      transform: translateX(-50%);
+      width: calc(100vw - 30px);
+      margin-left: -10px;
+      margin-top: 30px;
     }
 
     .excerpts-container {
