@@ -45,7 +45,7 @@ Aber wenn es für dich gar keinen Unterschied macht, ob du mit einem aktiven Ges
 
 Wir sind keine Tiere mehr, die jeden Tag um ihr Überleben kämpfen müssen und rein von unseren Trieben gesteuert sind. Und so sehr ich auch gerne alles auf den Kapitalismus schiebe, leben wir doch in einer Umgebung in der wir auf unsere Gesellschaft und Systeme und auf ein Miteinander angewiesen sind. Kurz: um das soziale kommen wir nicht rum. 
 
-Menschen können extrem spannend sein. Hinter jeder Person steckt irgendwo eine Geschichte, die in die Schublade passt, in die er sie gesteckt hast. Die die Schubladen in seiner eigenen Welt, auf die er so fixiert ist, vollkommen sprengen und neu bilden könnte. Aber Voraussetzung dafür, um an diese Geschichten dran zu kommen, ist echtes, authentisches Interesse. 
+Menschen können extrem spannend sein. Hinter jeder Person steckt irgendwo eine Geschichte, die nicht in die Schublade passt, in die er sie gesteckt hast. Die die Schubladen in seiner eigenen Welt, auf die er so fixiert ist, vollkommen sprengen und neu bilden könnte. Aber Voraussetzung dafür, um an diese Geschichten dran zu kommen, ist echtes, authentisches Interesse. 
 
 Doch er erzählt mir weiter von irgendwelchen Gehältern, die ihm angeboten werden. In einer Art, die suggeriert, es wäre selbstverständlich, dass das Gehalt für jeden die Priorität Nr. 1 hat in der Berufswahl. 
 
