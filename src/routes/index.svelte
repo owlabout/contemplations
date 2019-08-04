@@ -108,7 +108,7 @@
 
   @media (orientation:landscape) and (max-width: 860px){ 
     .description {
-      width: calc(50vw);
+      width: calc(55vw);
       left: 70%;
     }
   }

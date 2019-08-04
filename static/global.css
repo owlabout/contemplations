@@ -221,7 +221,7 @@ blockquote:nth-of-type(2n):after {
 @media(max-width: 860px) {
   .background {
       height: 70vh;
-      background: var(--background-image) 5vw 90px/130vw, linear-gradient(45deg, var(--background-color-left) 0%, var(--background-color-right) 100%);
+      background: var(--background-image) center center/contain, linear-gradient(45deg, var(--background-color-left) 0%, var(--background-color-right) 100%);
       background-repeat: no-repeat;
   }
   
@@ -229,7 +229,7 @@ blockquote:nth-of-type(2n):after {
   .post-container {
       width: 100vw;
       left: 0;
-      top: 60vh;
+      top: 65vh;
       padding: 25px;
   }
 }
