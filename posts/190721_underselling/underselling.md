@@ -49,19 +49,19 @@ Reality: I get the next task. No one mentions anything about it.
  
 
 ## 2. My Protective Shell Has a Deadline
-This one is clear. It only works for so long. On my first day of work in the new team I was able to elaborate easily on my cluelessness. After even a few weeks this becomes more and more impossible. For one, I turn into a broken record. As soon as I open my mouth, I can almost feel everyone's thoughts explode into outbursts of "Yes we know! You're inexperienced. Get over it!" 
+This one is clear. It only works for so long. On my first day of work in the new team I was able to elaborate easily on my cluelessness. After even a few weeks this becomes more and more impossible. For one, I turn into a broken record. As soon as I open my mouth, I can almost feel everyone's thoughts explode into outbursts of "Yes, we know! You're inexperienced. Get over it!" 
 
-And then if it continues further, I could only say that I am incapable, not inexperienced. After all, what have I been doing here the past few months if not gaining experience. And to then say that I'm incapable will not inspire a lot of compassion from colleges, who must feel like they are wasting their time. 
+And then if it continues further, I could only say that I am incapable, not inexperienced. After all, what have I been doing here the past few months, if not gaining experience. And to then say that I'm incapable will not inspire a lot of compassion from colleges, who must feel like they are wasting their time. 
 
 
 ## 3. Fear of Hidden Prejudices Trumps All
 One might think, that building up this nice protective shell in the beginning gives me enough of an excuse to ask any kind of stupid question I have. It doesn't. That's because it doesn't actually change my level of self-confidence. 
 
-Whenever I ask someone a question about what something is or how something works I am always deathly afraid of it being a stupid question. Not because nobody else asks stupid questions from time to time, but simply because I am a girl. 
+Whenever I ask someone a question about what something is, or how something works I am always deathly afraid of it being a stupid question. Not because nobody else asks stupid questions from time to time, but simply because I am a girl. 
 
 Now before you roll your eyes and leave the page, mumbling things like " ... feminism ... victimization ... what a cliché...", let me make one thing clear: My colleagues are also definitely NOT misogynistic assholes. Not once has anyone made any comments in my direction that has given me the legitimate feeling that anyone is prejudged because of my gender. 
 
-This for some reason does not change the fact, though, that I am constantly waiting for it. If I ask something very stupid I always expect everyone to dismiss me as the dumb girl. This is by no fault of my colleagues. It is really all me. Well, maybe I might go so far as to blame some of that on society in general. But I am also willing to admit, that it is mainly in my head. 
+This, for some reason, does not change the fact, though, that I am constantly waiting for it. If I ask something very stupid I always expect everyone to dismiss me as the dumb girl. This is by no fault of my colleagues. It is really all me. Well, maybe I might go so far as to blame some of that on society in general. But I am also willing to admit, that it is mainly in my head. 
 
 It's just also something I haven't been able to change so far.
 
