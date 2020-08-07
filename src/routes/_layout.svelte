@@ -19,14 +19,27 @@
     }
   }
 
+  function addFootnoteEventListeners() {
+    if (typeof document !== "undefined") {
+      let footnotes = document.getElementsByClassName("footnote");
+      console.log(footnotes);
+      footnotes.addEventListener("click", function() {
+        footnotes.getElementsByClassName(
+          "footnote-container"
+        )[1].style.display = "block";
+      });
+    }
+  }
+
   export let segment;
   $: classes = `layout__${segment ? segment : "start"}`;
   $: updateLang($lang);
+  // $: addFootnoteEventListeners();
 </script>
 
 <div class="layout {classes}">
   <!-- <Nav /> -->
-  <div class="top-bar"></div>
+  <div class="top-bar" />
 
   <main class={classes}>
     <slot />

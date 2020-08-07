@@ -62,7 +62,7 @@
     width: 1.2rem;
   }
 
-  @media(max-width: 860px) {
+  @media (max-width: 860px) {
     a {
       padding: 5px;
     }
@@ -83,6 +83,7 @@
     <a rel="noopener" href="https://owlabout.de/datenschutz.html">
       Datenschutz
     </a>
+    <span class="footnote-container">Datenschutz ist toll!</span>
     <a rel="noopener" href="https://owlabout.de/#contact">Kontakt</a>
     <a rel="noopener" href="https://owlabout.de/">
       <img src="/app/logo-owl.png" alt="owlabout" />

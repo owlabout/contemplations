@@ -91,7 +91,7 @@ a {
 }
 
 h1 {
-  color: var(--color-primary); 
+  color: var(--color-primary);
   font-size: 24pt;
   font-weight: 300;
   margin-top: 25px;
@@ -100,8 +100,8 @@ h1 {
 
 h2 {
   font-size: 18pt;
-  color: var(--color-primary); 
-  border-bottom: solid 1px #5C5990;
+  color: var(--color-primary);
+  border-bottom: solid 1px #5c5990;
   font-weight: 300;
   margin-top: 40px;
   margin-bottom: 25px;
@@ -109,14 +109,14 @@ h2 {
 
 h3 {
   font-size: 12pt;
-  color: var(--color-primary); 
+  color: var(--color-primary);
   font-weight: 500;
   margin-top: 30px;
   margin-bottom: -10px;
 }
 
 ul {
-  list-style-image: url('/images/bulletpoint.svg');
+  list-style-image: url("/images/bulletpoint.svg");
 }
 
 li {
@@ -133,15 +133,20 @@ li {
 }
 
 .background {
-  background: rgb(128,121,237);
-  background: var(--background-image) 10px 90px/contain, linear-gradient(45deg, var(--background-color-left) 0%, var(--background-color-right) 100%); 
+  background: rgb(128, 121, 237);
+  background: var(--background-image) 10px 90px / contain,
+    linear-gradient(
+      45deg,
+      var(--background-color-left) 0%,
+      var(--background-color-right) 100%
+    );
   background-repeat: no-repeat;
   position: fixed;
   width: 100vw;
   height: 100vh;
   --background-image: url(./networking.svg);
-  --background-color-left: rgba(128,121,237,1);
-  --background-color-right: rgba(92,89,144,1)
+  --background-color-left: rgba(128, 121, 237, 1);
+  --background-color-right: rgba(92, 89, 144, 1);
 }
 
 nav {
@@ -185,7 +190,7 @@ blockquote {
   margin-top: 30px;
   margin-right: 0;
   padding-right: 40px;
-  position:relative;
+  position: relative;
 }
 
 blockquote:nth-of-type(2n) {
@@ -212,24 +217,43 @@ blockquote:nth-of-type(2n):after {
   left: 20px;
 }
 
-@media(min-width: 1580px) {
+.footnote-container {
+  display: none;
+  position: absolute;
+  width: 240px;
+  padding: 20px;
+  bottom: 15px;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+}
+
+.footnote {
+  color: red;
+}
+
+@media (min-width: 1580px) {
   .post-container {
-      left: 50vw;
+    left: 50vw;
   }
 }
 
-@media(max-width: 860px) {
+@media (max-width: 860px) {
   .background {
-      height: 70vh;
-      background: var(--background-image) center center/contain, linear-gradient(45deg, var(--background-color-left) 0%, var(--background-color-right) 100%);
-      background-repeat: no-repeat;
+    height: 70vh;
+    background: var(--background-image) center center/contain,
+      linear-gradient(
+        45deg,
+        var(--background-color-left) 0%,
+        var(--background-color-right) 100%
+      );
+    background-repeat: no-repeat;
   }
-  
 
   .post-container {
-      width: 100vw;
-      left: 0;
-      top: 65vh;
-      padding: 25px;
+    width: 100vw;
+    left: 0;
+    top: 65vh;
+    padding: 25px;
   }
 }
