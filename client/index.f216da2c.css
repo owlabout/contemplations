@@ -1,0 +1,11 @@
+svg.svelte-13cndpw{width:1em;height:1em}
+:root{--excerpt-size:250px}.excerpt.svelte-6f4j2r{width:var(--excerpt-size);height:var(--excerpt-size);background:linear-gradient(
+      45deg,
+      rgba(2, 206, 221, 1) 0%,
+      rgba(37, 108, 112, 1) 100%
+    );margin:20px;transition:0.3s ease-in-out;position:relative}.excerpt.svelte-6f4j2r:hover{transform:scale(1.1)}.excerpt.svelte-6f4j2r img.svelte-6f4j2r{width:100%;max-height:100%;top:50%;position:relative;transform:translateY(-50%)}.excerpt.svelte-6f4j2r img[src$=".svg"].svelte-6f4j2r{padding:3rem}.excerpt-element.svelte-6f4j2r{background:rgba(51, 51, 51, 0.5);display:flex;justify-content:center;align-items:center}.excerpt-title.svelte-6f4j2r{width:var(--excerpt-size);height:7rem;position:absolute;bottom:2rem}.excerpt-date.svelte-6f4j2r{position:absolute;height:3rem;width:8rem;right:0;top:1rem;font-size:1.2rem;color:var(--color-lightgrey)}h3.svelte-6f4j2r{font-family:inherit;margin:0;padding:7px;color:var(--color-background);text-align:center;font-size:1.6rem;font-weight:300}
+.about.svelte-1s6za0l{position:fixed;left:0;top:0;height:100vh;width:520px;background:linear-gradient(
+        45deg,
+        #7B74E0 40.91%, 
+        #D0CDE1 100%
+      )}.about.svelte-1s6za0l img.svelte-1s6za0l{position:absolute;bottom:40px;left:20px;z-index:-1;width:calc(520px - 40px)}.description.svelte-1s6za0l{width:37rem;background:var(--color-primary);color:white;padding:4rem 2rem;margin-left:80px;margin-top:86px}h1.svelte-1s6za0l{font-weight:100;color:white;margin-top:0;-webkit-font-smoothing:antialiased}p.svelte-1s6za0l{font-size:11pt;-webkit-font-smoothing:antialiased}.excerpts-container.svelte-1s6za0l{position:absolute;right:0;top:39px;height:auto;display:flex;flex-wrap:wrap;justify-content:center;width:calc(100vw - 520px);padding-bottom:80px;min-height:calc(100vh - 50px)}@media(max-width: 860px){.about.svelte-1s6za0l{position:relative;width:100vw;height:100vh;padding:20px}.about.svelte-1s6za0l img.svelte-1s6za0l{width:200px;z-index:1}.description.svelte-1s6za0l{position:relative;width:calc(100vw - 30px);max-width:500px;margin-left:0;left:50%;transform:translateX(-50%);margin-top:30px}.excerpts-container.svelte-1s6za0l{position:relative;width:100vw}}@media(orientation:landscape) and (max-width: 860px){.description.svelte-1s6za0l{width:calc(55vw);left:70%}}

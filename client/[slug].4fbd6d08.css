@@ -1,0 +1,2 @@
+.hero__container{--color-hero:var(--color-lightred);width:100vw;position:relative;left:50%;transform:translateX(-50%);background:linear-gradient(45deg, var(--color-hero), transparent)}.has-sticky .hero__container{left:0}.hero__container img{display:block;height:400px;max-width:100%;margin:0 auto}
+.footer-container.svelte-8fy71{position:fixed;bottom:0;z-index:0;width:100%}
